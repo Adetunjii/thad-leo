@@ -24,7 +24,7 @@ function Contact() {
         </div>
       </div>
 
-      <div className="md:flex justify-between my-24 mx-32">
+      <div className="md:flex justify-between my-24 mx-10 md:mx-32">
         <div>
           <div className="my-10">
             <img src={phone} alt="phone" />
